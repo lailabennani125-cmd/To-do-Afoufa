@@ -1,0 +1,17 @@
+{
+  "name": "To Do Afoufa",
+  "short_name": "Afoufa",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7f4",
+  "theme_color": "#fff7f4",
+  "description": "A cute minimal to-do app.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
